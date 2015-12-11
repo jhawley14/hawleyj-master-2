@@ -1,0 +1,44 @@
+heading: 
+
+  ul {
+  margin-top: 0;
+}
+
+
+li {
+  display: inline-block; 
+  list-style: none;
+}
+
+
+li:hover{
+  height: 128px;
+}
+
+
+a:link, a:visited {
+  color: #384255;
+  border-left: 4px solid #fff;
+  display: block; 
+  height: 32px; 
+  line-height: 32px; 
+  margin-bottom: 10px;
+  text-decoration: none;
+  text-align: left;
+  width: 120px; 
+  
+  transition: all .5s;
+  
+}
+  
+a:hover { 
+  background: #CC881E; 
+  border-left: 4px solid #384255;
+  padding-top: 64px;
+  transition: all .5s;
+}
+
+{background: <"img:shattered/shattered.png"> 
+
+    
+
